@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigattion"
+    app:startDestination="@id/firstFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.example.myroomdatabase.ui.FirstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" >
+        <action
+            android:id="@+id/action_firstFragment_to_removePersonFragment"
+            app:destination="@id/removePersonFragment" />
+        <action
+            android:id="@+id/action_firstFragment_to_editPersonFragment"
+            app:destination="@id/editPersonFragment" />
+        <action
+            android:id="@+id/action_firstFragment_to_showAllPeopleFragment"
+            app:destination="@id/showAllPeopleFragment" />
+        <action
+            android:id="@+id/action_firstFragment_to_createNewPersonFragment"
+            app:destination="@id/createNewPersonFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createNewPersonFragment"
+        android:name="com.example.myroomdatabase.ui.CreateNewPersonFragment"
+        android:label="fragment_create_new_person"
+        tools:layout="@layout/fragment_create_new_person" />
+    <fragment
+        android:id="@+id/removePersonFragment"
+        android:name="com.example.myroomdatabase.ui.RemovePersonFragment"
+        android:label="fragment_remove_person"
+        tools:layout="@layout/fragment_remove_person" />
+    <fragment
+        android:id="@+id/editPersonFragment"
+        android:name="com.example.myroomdatabase.ui.EditPersonFragment"
+        android:label="fragment_edit_person"
+        tools:layout="@layout/fragment_edit_person" />
+    <fragment
+        android:id="@+id/showAllPeopleFragment"
+        android:name="com.example.myroomdatabase.ui.ShowAllPeopleFragment"
+        android:label="fragment_show_all_people"
+        tools:layout="@layout/fragment_show_all_people" />
+</navigation>
