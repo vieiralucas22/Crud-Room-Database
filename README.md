@@ -17,7 +17,7 @@ abrir o projeto e simplesmente rodar o aplicativo 😄
     <img src="https://github.com/vieiralucas22/Crud-Room-Database/assets/88836592/e7820e9c-929c-430c-bfce-799241ed0ef5" width="200"/>
 <div/>
 
-## Referências
+## Referências 📖
 
  - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt-br)
  - [Room](https://developer.android.com/training/data-storage/room?hl=pt-br)
