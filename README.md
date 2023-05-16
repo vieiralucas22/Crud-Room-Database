@@ -9,12 +9,9 @@ abrir o projeto e simplesmente rodar o aplicativo 😄
     
 ## Imagens do projeto 📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<div>
+    <img src="https://github.com/vieiralucas22/Crud-Room-Database/assets/88836592/9ef4b670-e7c4-4d4c-9dd2-b1d3c5f40a07" width="200"/>
+<div/>
 
 ## Referências
 
