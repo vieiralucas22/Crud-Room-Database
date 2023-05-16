@@ -1,6 +1,6 @@
 # Crud Room Database
 
-Esse projeto é um aplicativo simples de crud de cadastro de pessoas feito em Java Android. Para desenvolve-lo usei duas tecnologias principais o Navigation e o bando de dados Room
+Esse projeto é um aplicativo simples de CRUD de cadastro de pessoas feito em Java Android. Para desenvolve-lo usei duas tecnologias principais o Navigation e o bando de dados Room
 ## Como testar?👨‍💻
 
 Para ver o projeto funcionando no seu computador é necessário baixar a IDE Android Studio,
